@@ -1,0 +1,52 @@
+body {
+	font-family: Arial, sans-serif;
+	background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20220217/pngtree-twenty-four-solar-terms-of-the-great-heat-and-small-fresh-image_950073.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.container {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h1 {
+	text-align: center;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+input[type="number"] {
+	padding: 10px;
+	border: 1px solid #ccc;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+select {
+	padding: 10px;
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+}
+
+button {
+	background-color: #4CAF50;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #3e8e41;
+}
+
+p {
+	font-size: 24px;
+	margin-top: 20px;
+	text-align: center;
+}
